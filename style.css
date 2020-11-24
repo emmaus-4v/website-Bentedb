@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: red;
     text-align: center;
 }
 
@@ -85,7 +85,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-    background-color: skyblue;
+    background-color: blue;
 }
 
 
