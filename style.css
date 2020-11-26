@@ -6,7 +6,7 @@ html, body {
     background-color: #EEEEEE;  
     
     color: #303030;
-    font: Verdana, Arial, Sans-Serif;
+    font-family: Verdana, Arial, Sans-Serif;
 }
 
 
@@ -33,17 +33,27 @@ footer {
     padding-bottom: 10px;
 }
 
+p.tekst {
+    margin-top:20px;
+
+}
+
 
 /* specifieke stijlen */
 
 img.zweefLinks {
     float:right;
     margin-right: 20px;
+    margin-top: 20px;
 }
 
 img.zweeflinks2 {
     float:left;
     margin-right: 15px;
+}
+img.zweeflinks3 {
+    float: right;
+    
 }
 .smalltext {
     font-size: 0.7em;
@@ -81,7 +91,7 @@ nav li a {
 }
 
 nav li a:hover {
-    background-color: #b64009;
+    background-color: #f1ce05;
 }
 
 nav li a.active {
