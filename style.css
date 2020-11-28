@@ -34,26 +34,42 @@ footer {
 }
 
 p.tekst {
-    margin-top:20px;
+    margin-top: 25px;
 
 }
+p.tekst2 {
+    margin-top: 35px;
+}
 
+p.tekst3{
+    margin-top: 35px;
+}
+
+p.tekst4 {
+    margin-top: 35px;
+}
 
 /* specifieke stijlen */
 
 img.zweefLinks {
     float:right;
     margin-right: 20px;
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
 img.zweeflinks2 {
     float:left;
     margin-right: 15px;
+    margin-top: 25px;
 }
 img.zweeflinks3 {
     float: right;
-    
+    margin-top: 25px;
+}
+
+img.zweeflinks4 {
+    float:left;
+    margin-top: 25px;
 }
 .smalltext {
     font-size: 0.7em;
