@@ -34,7 +34,7 @@ footer {
 }
 
 p.tekst {
-    margin-top: 25px;
+    margin-top: 20px;
 
 }
 p.tekst2 {
@@ -65,6 +65,7 @@ img.zweeflinks2 {
 img.zweeflinks3 {
     float: right;
     margin-top: 25px;
+    margin-bottom: 10px;
 }
 
 img.zweeflinks4 {
