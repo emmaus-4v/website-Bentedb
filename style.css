@@ -19,6 +19,8 @@ main {
 
 article {
     text-align: justify;
+    clear: both;
+    
 }
 
 
@@ -35,6 +37,7 @@ footer {
 
 p.tekst {
     margin-top: 20px;
+    
 
 }
 p.tekst2 {
