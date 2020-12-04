@@ -19,7 +19,7 @@ main {
 
 article {
     text-align: justify;
-    clear: both;
+    
     
 }
 
@@ -54,7 +54,7 @@ p.tekst4 {
 
 /* specifieke stijlen */
 
-img.zweefLinks {
+img.zweeflinks {
     float:right;
     margin-right: 20px;
     margin-top: 15px;
