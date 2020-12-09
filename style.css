@@ -52,12 +52,24 @@ img.zweeflinks {
     float:right;
     margin-right: 20px;
     margin-top: 15px;
+    width: 350px;
+    margin-left: 15px;
 }
 
 img.zweeflinks2 {
     float:left;
     margin-right: 15px;
     margin-top: 25px;
+}
+
+img.boeken {
+    width: 300px;
+    margin-bottom: 15px;
+}
+
+img.kookboek {
+    widt: 100px;
+    margin-bottom: 15px;
 }
 
 
