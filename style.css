@@ -19,7 +19,7 @@ main {
 
 article {
     text-align: justify;
-    
+    clear: both;
     
 }
 
@@ -42,7 +42,10 @@ p.tekst {
 }
 p.tekst2 {
     margin-top: 35px;
+  
 }
+
+
 
 
 
@@ -54,12 +57,16 @@ img.zweeflinks {
     margin-top: 15px;
     width: 350px;
     margin-left: 15px;
+    margin-bottom: 10px;
+    border: 2px solve black;
 }
 
 img.zweeflinks2 {
     float:left;
     margin-right: 15px;
-    margin-top: 25px;
+    margin-top: 15px;
+    width: 250px;
+    margin-bottom: 15px;
 }
 
 img.boeken {
