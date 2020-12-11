@@ -69,16 +69,24 @@ img.zweeflinks2 {
     margin-bottom: 15px;
 }
 
-img.boeken {
-    width: 300px;
-    margin-bottom: 15px;
-}
-
 img.kookboek {
-    widt: 100px;
-    margin-bottom: 15px;
+    width: 250px;
+    margin-bottom: 15px; 
 }
 
+img.afbeelding {
+    float: right;
+    width: 300px;
+    margin-left: 15px;
+}
+
+img.afbeeldingrechts {
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+    margin-bottom: 20px;
+
+}
 
 
 .smalltext {
