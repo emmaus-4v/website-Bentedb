@@ -89,6 +89,18 @@ img.afbeeldingrechts {
 
 }
 
+img.recept {
+    float: right;
+    width: 250px;
+    margin-left: 10px;
+}
+
+img.recept2 {
+    float: left;
+    width: 300px;
+    margin-right: 15px;
+
+}
 
 .smalltext {
     font-size: 0.7em;
