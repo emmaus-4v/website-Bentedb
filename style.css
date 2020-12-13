@@ -102,6 +102,11 @@ img.recept2 {
 
 }
 
+img.glutenfree {
+    width: 400px;
+    margin-left: 150px;
+}
+
 .smalltext {
     font-size: 0.7em;
 }
