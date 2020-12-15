@@ -45,7 +45,9 @@ p.tekst2 {
   
 }
 
-
+.hoofd {
+    background-color: #d3d3d3;
+}
 
 
 
@@ -105,7 +107,7 @@ img.recept2 {
 }
 
 img.glutenfree {
-    width: 400px;
+    width: 450px;
     margin-left: 125px;
 }
 
