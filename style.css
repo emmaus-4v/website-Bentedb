@@ -44,7 +44,7 @@ footer {
 
 
 /* specifieke stijlen */
-
+/*afbeeldingen*/
 img.zweeflinks {
     float:right;
     margin-right: 20px;
@@ -106,10 +106,12 @@ img.glutenfree {
     
 }
 
+/*specifieke css*/
 .smalltext {
     font-size: 0.7em;
 }
 
+/*kleur die de links krijgen*/
 a {
     color: skyblue;
     text-decoration: none;
@@ -119,6 +121,7 @@ a:hover {
     text-decoration: underline;
 }
 
+/*afbeelding op hoofdpagina die slide*/
 @keyframes slide {
     0% {
         left: -1000px;
