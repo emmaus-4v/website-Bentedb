@@ -133,7 +133,28 @@ a:hover {
     animation: slide 5s;
 }
 
+/*titels bovenaan pagina's die van kleur veranderen*/
+@keyframes titel {
+    0%{
+        color: rgb(0, 0, 0);
+    }
+    25%{
+        color: #5c676e;
+    }
+    50%{
+        color: #4897b6;
+    }
+    75%{
+        color: #29c5bd;
+    }
+    100%{
+        color: rgb(0, 0, 0)
+    }
+}
 
+.titel {
+    animation: titel 20s infinite;
+}
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
