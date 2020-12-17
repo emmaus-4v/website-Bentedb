@@ -6,7 +6,7 @@ html, body {
     background-color: #EEEEEE;  
     
     color: #303030;
-    font-family: Verdana, Arial, Sans-Serif;
+    font-family: Comic Sans MS, Comic Sans, cursive;
 }
 
 
@@ -35,18 +35,10 @@ footer {
     padding-bottom: 10px;
 }
 
-p.tekst {
-    margin-top: 20px;
-    
-
-}
-p.tekst2 {
-    margin-top: 35px;
-  
-}
 
 .hoofd {
     background-color: #d3d3d3;
+     
 }
 
 
@@ -97,18 +89,21 @@ img.recept {
     float: right;
     width: 250px;
     margin-left: 10px;
+     border: 2px solid rgb(0, 0, 0);
 }
 
 img.recept2 {
     float: left;
     width: 300px;
     margin-right: 15px;
+     border: 2px solid rgb(0, 0, 0);
 
 }
 
 img.glutenfree {
     width: 450px;
-    margin-left: 125px;
+    margin-left: 115px;
+    
 }
 
 .smalltext {
@@ -138,12 +133,13 @@ a:hover {
     animation: slide 5s;
 }
 
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
     margin: auto;
     padding: 0;
-    background-color: #e7e7e5;
+    background-color: #d3d3d3;
     overflow: hidden;
 }
 
